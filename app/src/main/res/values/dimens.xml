@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimension (dp) -->
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_38">38dp</dimen>
+    <dimen name="dimen_43">43dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_71">71dp</dimen>
+    <dimen name="dimen_101">101dp</dimen>
+    <dimen name="dimen_103">103dp</dimen>
+    <dimen name="dimen_109">109dp</dimen>
+    <dimen name="dimen_141">141dp</dimen>
+    <dimen name="dimen_144">144dp</dimen>
+    <dimen name="dimen_149">149dp</dimen>
+    <dimen name="dimen_157">157dp</dimen>
+    <dimen name="dimen_171">171dp</dimen>
+    <dimen name="dimen_186">186dp</dimen>
+    <dimen name="dimen_241">241dp</dimen>
+</resources>
