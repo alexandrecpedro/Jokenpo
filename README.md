@@ -11,7 +11,6 @@ Vamos relembrar os velhos tempos de criança!
 </div>
 <br>
 
-| | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="início do jogo" src="./screenshots/jokenpo1.jpeg"> | <img width="1604" alt="você ganhou :)" src="./screenshots/jokenpo2.jpeg">|<img width="1604" alt="você perdeu :(" src="./screenshots/jokenpo3.jpeg">|<img width="1604" alt="empatamos ;)" src="./screenshots/jokenpo4.jpeg"> |
 <br>
